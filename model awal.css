@@ -1,0 +1,17 @@
+a {
+    color: rgb(27, 47, 199);
+    text-decoration: none;
+}
+h1 {
+    color:blueviolet;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+}
